@@ -73,3 +73,7 @@ def student_delete(request):
 
 
 
+
+def newfunc2():
+    return 1 + 2s
+
